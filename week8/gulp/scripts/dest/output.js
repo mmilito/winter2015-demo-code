@@ -1,0 +1,1 @@
+$(document).on("ready",function(){console.log("Hello from main.js!"),console.log("testing")});var adder=function(o,n){return o+n};
